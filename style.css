@@ -1,0 +1,19 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+#wrapper{
+    height:90%;
+    width:50%;
+    display: grid;
+    margin-left:22%;
+  border: 2px solid blue;
+}
+.divN{
+   width:1fr;
+   transition: 0.2s;
+   height:1fr;
+}
+.divN:hover{
+ 
+}
